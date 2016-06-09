@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\4.Console Input  Output\5.Formatting Numbers\bin\Debug\5.Formatting Numbers.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\4.Console Input  Output\5.Formatting Numbers\bin\Debug\5.Formatting Numbers.exe
+D:\WEB\C#\Telerik C# Part 1 2015\4.Console Input  Output\5.Formatting Numbers\bin\Debug\5.Formatting Numbers.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\4.Console Input  Output\5.Formatting Numbers\obj\Debug\5.Formatting Numbers.exe
+D:\WEB\C#\Telerik C# Part 1 2015\4.Console Input  Output\5.Formatting Numbers\obj\Debug\5.Formatting Numbers.pdb

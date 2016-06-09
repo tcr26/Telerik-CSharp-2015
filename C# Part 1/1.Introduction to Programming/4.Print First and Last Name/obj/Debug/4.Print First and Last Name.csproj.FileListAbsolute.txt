@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\4.Print First and Last Name\bin\Debug\4.Print First and Last Name.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\4.Print First and Last Name\bin\Debug\4.Print First and Last Name.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\4.Print First and Last Name\bin\Debug\4.Print First and Last Name.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\4.Print First and Last Name\obj\Debug\4.Print First and Last Name.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\4.Print First and Last Name\obj\Debug\4.Print First and Last Name.pdb

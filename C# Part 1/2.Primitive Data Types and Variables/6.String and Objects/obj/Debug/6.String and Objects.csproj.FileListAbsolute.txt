@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\6.String and Objects\bin\Debug\6.String and Objects.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\6.String and Objects\bin\Debug\6.String and Objects.exe
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\6.String and Objects\bin\Debug\6.String and Objects.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\6.String and Objects\obj\Debug\6.String and Objects.exe
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\6.String and Objects\obj\Debug\6.String and Objects.pdb

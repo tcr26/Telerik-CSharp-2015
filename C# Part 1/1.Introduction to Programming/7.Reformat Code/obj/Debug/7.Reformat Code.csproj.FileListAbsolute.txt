@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\7.Reformat Code\bin\Debug\7.Reformat Code.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\7.Reformat Code\bin\Debug\7.Reformat Code.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\7.Reformat Code\bin\Debug\7.Reformat Code.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\7.Reformat Code\obj\Debug\7.Reformat Code.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\7.Reformat Code\obj\Debug\7.Reformat Code.pdb

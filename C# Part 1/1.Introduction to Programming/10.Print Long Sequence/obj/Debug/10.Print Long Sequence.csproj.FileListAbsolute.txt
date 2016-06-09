@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\10.Print Long Sequence\bin\Debug\10.Print Long Sequence.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\10.Print Long Sequence\bin\Debug\10.Print Long Sequence.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\10.Print Long Sequence\bin\Debug\10.Print Long Sequence.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\10.Print Long Sequence\obj\Debug\10.Print Long Sequence.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\10.Print Long Sequence\obj\Debug\10.Print Long Sequence.pdb

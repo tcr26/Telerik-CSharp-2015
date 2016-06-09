@@ -1,0 +1,6 @@
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\8.Digit as Word\bin\Debug\8.Digit as Word.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\8.Digit as Word\bin\Debug\8.Digit as Word.exe
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\8.Digit as Word\bin\Debug\8.Digit as Word.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\8.Digit as Word\obj\Debug\8.Digit as Word.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\8.Digit as Word\obj\Debug\8.Digit as Word.exe
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\8.Digit as Word\obj\Debug\8.Digit as Word.pdb

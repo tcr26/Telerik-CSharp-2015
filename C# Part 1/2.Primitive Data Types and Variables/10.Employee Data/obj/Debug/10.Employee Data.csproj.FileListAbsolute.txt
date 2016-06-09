@@ -1,0 +1,6 @@
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\10.Employee Data\bin\Debug\_10.Employee_Data.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\10.Employee Data\bin\Debug\_10.Employee_Data.exe
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\10.Employee Data\bin\Debug\_10.Employee_Data.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\10.Employee Data\obj\Debug\10.Employee Data.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\10.Employee Data\obj\Debug\_10.Employee_Data.exe
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\10.Employee Data\obj\Debug\_10.Employee_Data.pdb

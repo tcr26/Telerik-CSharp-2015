@@ -1,0 +1,6 @@
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\6.Four Digit Number\bin\Debug\6.Four Digit Number.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\6.Four Digit Number\bin\Debug\6.Four Digit Number.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\6.Four Digit Number\bin\Debug\6.Four Digit Number.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\6.Four Digit Number\obj\Debug\6.Four Digit Number.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\6.Four Digit Number\obj\Debug\6.Four Digit Number.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\6.Four Digit Number\obj\Debug\6.Four Digit Number.pdb

@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\2.Hello Me\bin\Debug\Hello_Me.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\2.Hello Me\bin\Debug\Hello_Me.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\2.Hello Me\bin\Debug\Hello_Me.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\2.Hello Me\obj\Debug\Hello_Me.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\2.Hello Me\obj\Debug\Hello_Me.pdb

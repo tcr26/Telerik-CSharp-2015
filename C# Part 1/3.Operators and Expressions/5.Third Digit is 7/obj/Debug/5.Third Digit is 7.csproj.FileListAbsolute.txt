@@ -1,0 +1,6 @@
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\5.Third Digit is 7\bin\Debug\5.Third Digit is 7.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\5.Third Digit is 7\bin\Debug\5.Third Digit is 7.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\5.Third Digit is 7\bin\Debug\5.Third Digit is 7.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\5.Third Digit is 7\obj\Debug\5.Third Digit is 7.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\5.Third Digit is 7\obj\Debug\5.Third Digit is 7.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\5.Third Digit is 7\obj\Debug\5.Third Digit is 7.pdb

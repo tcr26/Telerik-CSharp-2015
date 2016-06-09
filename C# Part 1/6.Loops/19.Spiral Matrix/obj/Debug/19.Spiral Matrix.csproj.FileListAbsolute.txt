@@ -1,0 +1,6 @@
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.exe
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\19.Spiral Matrix\obj\Debug\19.Spiral Matrix.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\19.Spiral Matrix\obj\Debug\19.Spiral Matrix.exe
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\19.Spiral Matrix\obj\Debug\19.Spiral Matrix.pdb

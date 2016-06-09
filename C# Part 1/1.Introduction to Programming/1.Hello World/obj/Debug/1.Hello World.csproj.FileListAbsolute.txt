@@ -1,0 +1,6 @@
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\1.Hello World\bin\Debug\1.Hello World.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\1.Hello World\bin\Debug\1.Hello World.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\1.Hello World\bin\Debug\1.Hello World.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\1.Hello World\obj\Debug\1.Hello World.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\1.Hello World\obj\Debug\1.Hello World.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\1.Hello World\obj\Debug\1.Hello World.pdb

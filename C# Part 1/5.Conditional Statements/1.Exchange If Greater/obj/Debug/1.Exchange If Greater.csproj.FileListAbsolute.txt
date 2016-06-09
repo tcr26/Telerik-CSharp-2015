@@ -1,0 +1,6 @@
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\1.Exchange If Greater\bin\Debug\1.Exchange If Greater.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\1.Exchange If Greater\bin\Debug\1.Exchange If Greater.exe
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\1.Exchange If Greater\bin\Debug\1.Exchange If Greater.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\1.Exchange If Greater\obj\Debug\1.Exchange If Greater.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\1.Exchange If Greater\obj\Debug\1.Exchange If Greater.exe
+D:\WEB\C#\Telerik C# Part 1 2015\5.Conditional Statements\1.Exchange If Greater\obj\Debug\1.Exchange If Greater.pdb

@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\2.Numbers Not Divisible by 3 and 7\bin\Debug\2.Numbers Not Divisible by 3 and 7.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\2.Numbers Not Divisible by 3 and 7\bin\Debug\2.Numbers Not Divisible by 3 and 7.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\2.Numbers Not Divisible by 3 and 7\bin\Debug\2.Numbers Not Divisible by 3 and 7.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\2.Numbers Not Divisible by 3 and 7\obj\Debug\2.Numbers Not Divisible by 3 and 7.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\2.Numbers Not Divisible by 3 and 7\obj\Debug\2.Numbers Not Divisible by 3 and 7.pdb

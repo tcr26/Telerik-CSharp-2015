@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\5.Boolean Variable\bin\Debug\5.Boolean Variable.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\5.Boolean Variable\bin\Debug\5.Boolean Variable.exe
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\5.Boolean Variable\bin\Debug\5.Boolean Variable.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\5.Boolean Variable\obj\Debug\5.Boolean Variable.exe
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\5.Boolean Variable\obj\Debug\5.Boolean Variable.pdb

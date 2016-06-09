@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\11.Bitwise Extract Bit 3\bin\Debug\11.Bitwise Extract Bit 3.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\11.Bitwise Extract Bit 3\bin\Debug\11.Bitwise Extract Bit 3.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\11.Bitwise Extract Bit 3\bin\Debug\11.Bitwise Extract Bit 3.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\11.Bitwise Extract Bit 3\obj\Debug\11.Bitwise Extract Bit 3.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\11.Bitwise Extract Bit 3\obj\Debug\11.Bitwise Extract Bit 3.pdb

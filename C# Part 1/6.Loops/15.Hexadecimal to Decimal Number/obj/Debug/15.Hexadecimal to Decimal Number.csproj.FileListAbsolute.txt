@@ -1,0 +1,9 @@
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\15.Hexadecimal to Decimal Number\bin\Debug\15.Hexadecimal to Decimal Number.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\15.Hexadecimal to Decimal Number\bin\Debug\15.Hexadecimal to Decimal Number.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\15.Hexadecimal to Decimal Number\bin\Debug\15.Hexadecimal to Decimal Number.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\15.Hexadecimal to Decimal Number\obj\Debug\15.Hexadecimal to Decimal Number.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\15.Hexadecimal to Decimal Number\obj\Debug\15.Hexadecimal to Decimal Number.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\15.Hexadecimal to Decimal Number\obj\Debug\15.Hexadecimal to Decimal Number.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\15.Hexadecimal to Decimal Number\bin\Debug\15.Hexadecimal to Decimal Number.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\15.Hexadecimal to Decimal Number\obj\Debug\15.Hexadecimal to Decimal Number.exe
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\15.Hexadecimal to Decimal Number\obj\Debug\15.Hexadecimal to Decimal Number.pdb

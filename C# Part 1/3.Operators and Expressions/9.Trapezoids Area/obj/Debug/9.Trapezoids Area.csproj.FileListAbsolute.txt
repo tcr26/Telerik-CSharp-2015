@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\9.Trapezoids Area\bin\Debug\9.Trapezoids Area.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\9.Trapezoids Area\bin\Debug\9.Trapezoids Area.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\9.Trapezoids Area\bin\Debug\9.Trapezoids Area.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\9.Trapezoids Area\obj\Debug\9.Trapezoids Area.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\9.Trapezoids Area\obj\Debug\9.Trapezoids Area.pdb

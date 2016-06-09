@@ -1,0 +1,6 @@
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\8.Isosceles Triangle\bin\Debug\8.Isosceles Triangle.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\8.Isosceles Triangle\bin\Debug\8.Isosceles Triangle.exe
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\8.Isosceles Triangle\bin\Debug\8.Isosceles Triangle.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\8.Isosceles Triangle\obj\Debug\8.Isosceles Triangle.exe
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\8.Isosceles Triangle\obj\Debug\8.Isosceles Triangle.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\8.Isosceles Triangle\obj\Debug\8.Isosceles Triangle.csprojResolveAssemblyReference.cache

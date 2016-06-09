@@ -1,0 +1,6 @@
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\6._2\bin\Debug\6._2.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\6._2\bin\Debug\6._2.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\6._2\bin\Debug\6._2.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\6._2\obj\Debug\6._2.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\6._2\obj\Debug\6._2.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\6._2\obj\Debug\6._2.pdb

@@ -1,0 +1,6 @@
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\5.Calculate_1\bin\Debug\5.Calculate_1.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\5.Calculate_1\bin\Debug\5.Calculate_1.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\5.Calculate_1\bin\Debug\5.Calculate_1.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\5.Calculate_1\obj\Debug\5.Calculate_1.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\5.Calculate_1\obj\Debug\5.Calculate_1.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\5.Calculate_1\obj\Debug\5.Calculate_1.pdb

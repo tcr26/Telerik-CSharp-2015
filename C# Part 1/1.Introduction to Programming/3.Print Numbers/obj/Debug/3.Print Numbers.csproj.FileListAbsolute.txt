@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\3.Print Numbers\bin\Debug\3.Print Numbers.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\3.Print Numbers\bin\Debug\3.Print Numbers.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\3.Print Numbers\bin\Debug\3.Print Numbers.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\3.Print Numbers\obj\Debug\3.Print Numbers.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\3.Print Numbers\obj\Debug\3.Print Numbers.pdb

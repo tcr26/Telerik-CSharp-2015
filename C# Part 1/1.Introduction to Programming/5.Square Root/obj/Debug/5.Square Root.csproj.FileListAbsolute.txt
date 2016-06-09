@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\5.Square Root\bin\Debug\5.Square Root.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\5.Square Root\bin\Debug\5.Square Root.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\5.Square Root\bin\Debug\5.Square Root.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\5.Square Root\obj\Debug\5.Square Root.exe
+D:\WEB\C#\Telerik C# Part 1 2015\1.Introduction to Programming\5.Square Root\obj\Debug\5.Square Root.pdb

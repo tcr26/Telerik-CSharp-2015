@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\14.Print ASCII\bin\Debug\14.Print ASCII.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\14.Print ASCII\bin\Debug\14.Print ASCII.exe
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\14.Print ASCII\bin\Debug\14.Print ASCII.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\14.Print ASCII\obj\Debug\14.Print ASCII.exe
+D:\WEB\C#\Telerik C# Part 1 2015\2.Primitive Data Types and Variables\14.Print ASCII\obj\Debug\14.Print ASCII.pdb

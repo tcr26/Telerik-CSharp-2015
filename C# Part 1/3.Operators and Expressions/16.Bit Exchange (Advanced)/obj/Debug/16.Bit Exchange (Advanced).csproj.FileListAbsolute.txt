@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\16.Bit Exchange (Advanced)\bin\Debug\16.Bit Exchange (Advanced).exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\16.Bit Exchange (Advanced)\bin\Debug\16.Bit Exchange (Advanced).exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\16.Bit Exchange (Advanced)\bin\Debug\16.Bit Exchange (Advanced).pdb
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\16.Bit Exchange (Advanced)\obj\Debug\16.Bit Exchange (Advanced).exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\16.Bit Exchange (Advanced)\obj\Debug\16.Bit Exchange (Advanced).pdb

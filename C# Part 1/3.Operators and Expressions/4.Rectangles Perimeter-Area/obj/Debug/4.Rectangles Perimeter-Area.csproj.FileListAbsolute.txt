@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\4.Rectangles Perimeter-Area\bin\Debug\4.Rectangles Perimeter-Area.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\4.Rectangles Perimeter-Area\bin\Debug\4.Rectangles Perimeter-Area.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\4.Rectangles Perimeter-Area\bin\Debug\4.Rectangles Perimeter-Area.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\4.Rectangles Perimeter-Area\obj\Debug\4.Rectangles Perimeter-Area.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\4.Rectangles Perimeter-Area\obj\Debug\4.Rectangles Perimeter-Area.pdb

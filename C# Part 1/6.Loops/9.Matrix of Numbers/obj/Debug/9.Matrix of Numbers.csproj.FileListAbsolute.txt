@@ -1,0 +1,5 @@
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\9.Matrix of Numbers\bin\Debug\9.Matrix of Numbers.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\9.Matrix of Numbers\bin\Debug\9.Matrix of Numbers.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\9.Matrix of Numbers\bin\Debug\9.Matrix of Numbers.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\9.Matrix of Numbers\obj\Debug\9.Matrix of Numbers.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\9.Matrix of Numbers\obj\Debug\9.Matrix of Numbers.pdb

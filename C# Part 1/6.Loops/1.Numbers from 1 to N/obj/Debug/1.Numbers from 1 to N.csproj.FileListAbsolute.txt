@@ -1,0 +1,9 @@
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\1.Numbers from 1 to N\bin\Debug\1.Numbers from 1 to N.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\1.Numbers from 1 to N\bin\Debug\1.Numbers from 1 to N.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\1.Numbers from 1 to N\bin\Debug\1.Numbers from 1 to N.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\1.Numbers from 1 to N\obj\Debug\1.Numbers from 1 to N.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\1.Numbers from 1 to N\obj\Debug\1.Numbers from 1 to N.exe
+D:\WEB\C#\Telerik C# Part 1 2015\6.Loops\1.Numbers from 1 to N\obj\Debug\1.Numbers from 1 to N.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\1.Numbers from 1 to N\bin\Debug\1.Numbers from 1 to N.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\1.Numbers from 1 to N\obj\Debug\1.Numbers from 1 to N.exe
+D:\WEB\C#\Telerik C# Part 1 2015\C# Part 1\6.Loops\1.Numbers from 1 to N\obj\Debug\1.Numbers from 1 to N.pdb

@@ -1,0 +1,6 @@
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\8.Prime Check\bin\Debug\8.Prime Check.exe.config
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\8.Prime Check\bin\Debug\8.Prime Check.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\8.Prime Check\bin\Debug\8.Prime Check.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\8.Prime Check\obj\Debug\8.Prime Check.exe
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\8.Prime Check\obj\Debug\8.Prime Check.pdb
+D:\WEB\C#\Telerik C# Part 1 2015\3.Operators and Expressions\8.Prime Check\obj\Debug\8.Prime Check.csprojResolveAssemblyReference.cache
